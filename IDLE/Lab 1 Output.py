@@ -1,0 +1,337 @@
+Python 3.10.6 (v3.10.6:9c7b4bd164, Aug  1 2022, 17:13:48) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 3: 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 10 
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1: .6.7
+0.42000000000000004
+0.4872
+0.49967231999999995
+0.4999997852516352
+0.4999999999999078
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1:8
+-112.0
+-25312.0
+-1281445312.0
+-3.2842041778564454e+18
+-2.157199416369946e+37
+-9.307018643973673e+74
+-1.7324119207854706e+150
+-6.002502126559207e+300
+-inf
+-inf
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1:.4
+0.48
+0.4992
+0.49999872
+0.4999999999967232
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1:.8
+How many numbers should I print? 5
+0.31999999999999995
+0.4352
+0.49160191999999997
+0.49985894450462726
+0.4999999602066944
+
+============= RESTART: /Users/sylvie/Desktop/Intro CS/IDLE/Lab 1.py ============
+Hello, world!
+Hello world!
+3
+3.0
+5
+5.0
+23
+2 + 3 = 5
+6
+8
+2.3333333333333335
+2
+This program illustrates a chaotic function
+Enter a number between 0 and 1:.2
+How many numbers should I print? 100
+0.32000000000000006
+0.43520000000000003
+0.49160192
+0.4998589445046272
+0.49999996020669446
+0.49999999999999684
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+0.49999999999999994
+This program illustrates a chaotic function
+Enter a number between 0 and 1:
